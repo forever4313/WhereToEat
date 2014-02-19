@@ -26,6 +26,10 @@
             android:name=".AddResActivity"
             android:label="@string/app_name" >
         </activity>
+        <activity
+            android:name=".RestListActivity"
+            android:label="@string/app_name" >
+        </activity>
         <provider
             android:authorities="com.example.sqlitedemo"
             android:enabled="true"
